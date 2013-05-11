@@ -16,7 +16,7 @@ namespace RestCaller
         private static string oauthToken = string.Empty;
         private static string serviceUrl = string.Empty;
 
-        static void Main(string[] args)
+        /*static void Main(string[] args)
         {
             //print message to console
             Console.WriteLine(" :: DeveloperForce Demo :: ");
@@ -33,7 +33,7 @@ namespace RestCaller
             //CreateRecord();
 
             Console.ReadLine();
-        }
+        }*/
 
 
         /// <summary>
